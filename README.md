@@ -1,2 +1,2 @@
 # Puzzle
-My attempt to recreate the Gordian's Knot algorithmically.
+My attempt to recreate the Gordian'points Knot algorithmically.
